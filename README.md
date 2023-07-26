@@ -14,7 +14,7 @@
   - [PCI Requirements Compliance ](https://github.com/alexmerelus/PCI-Compliance-AWS/tree/main) 
 
 - <b> Applying Filters to SQL Queries </b>
-  - [PCI Requirements Compliance ](https://github.com/alexmerelus/PCI-Compliance-AWS/tree/main) 
+  - [SQL Queries](https://github.com/alexmerelus/sql_queries) 
 
 
 
