@@ -12,7 +12,7 @@
 
 <h2> 📀 Projects:</h2>
 
-- <b> PCI DSS implentation w/ AWS </b>
+- <b> PCI DSS implementation w/ AWS </b>
   - [Requirement 1](https://github.com/alexmerelus/PCI-Compliance-AWS/tree/main) 
 
 
