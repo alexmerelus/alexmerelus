@@ -1,5 +1,8 @@
 <h1>Hi, my name is Alex! <br/> A <a href="https://github.com/xmerelus">PCI Consultant</a> and <a href="https://www.linkedin.com/in/alexmerelus/">Cybersecurity Professional</a>. 
 
+<h2>📚 I’m currently working on ... <br/> 
+ - M.S. in Cybersecurity and Information Assurance @ WGU 🦉.</h2>
+
 <h2>👨‍💻 Cybersecurity Tools:</h2>
 
 - <b>AUDITING</b>
