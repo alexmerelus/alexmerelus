@@ -13,7 +13,7 @@
 <h2> 📀 Projects:</h2>
 
 - <b> PCI DSS implentation w/ AWS </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Requirement 1](https://github.com/alexmerelus/PCI-Compliance-AWS/tree/main) 
 
 
 <h2> 🤳🏾 Connect with me:</h2>
