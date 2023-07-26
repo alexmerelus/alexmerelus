@@ -7,13 +7,11 @@
 
 - <b>Auditing</b>
   - [BEST PRACTICES GUIDE](https://docs.google.com/spreadsheets/d/1w2FerEWW5URv09J8j-Vno06MJQ1Sp4hFb5ACeZmaHgI/edit?usp=sharing)
-- <b>Full Stack Web App </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 <h2> 📀 Projects:</h2>
 
 - <b> PCI DSS implementation w/ AWS </b>
-  - [Best Practices](https://github.com/alexmerelus/PCI-Compliance-AWS/tree/main) 
+  - [PCI Requirements Compliance ](https://github.com/alexmerelus/PCI-Compliance-AWS/tree/main) 
 
 
 <h2> 🤳🏾 Connect with me:</h2>
