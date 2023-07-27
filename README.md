@@ -1,14 +1,14 @@
-<h1>Hi, my name is Alex! <br/> A <a href="https://github.com/xmerelus">PCI DSS Consultant</a> and <a href="https://www.linkedin.com/in/alexmerelus/">Cybersecurity Professional</a>. 
+<h2>Hi, my name is Alex! <br/> A <a href="https://github.com/xmerelus">PCI DSS Consultant</a> and <a href="https://www.linkedin.com/in/alexmerelus/">Cybersecurity Professional</a>. 
 
-<h2>📚 I’m currently working on ... <br/> 
+<h3>📚 I’m currently working on ... <br/> 
  - M.S. in Cybersecurity and Information Assurance @ WGU 🦉.</h2>
 
-<h2>👨🏾‍💻 Cybersecurity Tools:</h2>
+<h3>👨🏾‍💻 Cybersecurity Tools:</h2>
 
 - <b>Auditing</b>
   - [BEST PRACTICES GUIDE](https://docs.google.com/spreadsheets/d/1w2FerEWW5URv09J8j-Vno06MJQ1Sp4hFb5ACeZmaHgI/edit?usp=sharing)
 
-<h2> 📀 Projects:</h2>
+<h3> 📀 Projects:</h2>
 
 - <b> PCI DSS implementation w/ AWS </b>
   - [PCI Requirements Compliance ](https://github.com/alexmerelus/PCI-Compliance-AWS/tree/main) 
