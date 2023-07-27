@@ -1,4 +1,4 @@
-<h2>Hi, my name is Alex! <br/> A <a href="https://github.com/xmerelus">PCI DSS Consultant</a> and <a href="https://www.linkedin.com/in/alexmerelus/">Cybersecurity Professional</a>. 
+<h2>Hi, my name is Alex! <br/> A <a href="[https://github.com/xmerelus](https://github.com/alexmerelus)">PCI DSS Consultant</a> and <a href="https://www.linkedin.com/in/alexmerelus/">Cybersecurity Professional</a>. 
 
 <h3>📚 I’m currently studying ... <br/> 
  <b>- M.S. in Cybersecurity and Information Assurance @ WGU 🦉.</b>
