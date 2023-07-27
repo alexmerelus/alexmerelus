@@ -7,8 +7,8 @@
 
 <h3>👨🏾‍💻 Cybersecurity Tools:</h2>
 
-- <b>Auditing</b>
-  - [BEST PRACTICES GUIDE](https://docs.google.com/spreadsheets/d/1w2FerEWW5URv09J8j-Vno06MJQ1Sp4hFb5ACeZmaHgI/edit?usp=sharing)
+
+  - [Best Practices Guide](https://docs.google.com/spreadsheets/d/1w2FerEWW5URv09J8j-Vno06MJQ1Sp4hFb5ACeZmaHgI/edit?usp=sharing)
 
 <h3> 📀 Projects:</h2>
 
