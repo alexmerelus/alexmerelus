@@ -1,7 +1,9 @@
 <h2>Hi, my name is Alex! <br/> A <a href="https://github.com/xmerelus">PCI DSS Consultant</a> and <a href="https://www.linkedin.com/in/alexmerelus/">Cybersecurity Professional</a>. 
 
-<h3>📚 I’m currently working on ... <br/> 
- - M.S. in Cybersecurity and Information Assurance @ WGU 🦉.</h2>
+<h3>📚 I’m currently studying ... <br/> 
+ <b>- M.S. in Cybersecurity and Information Assurance @ WGU 🦉.</b>
+<h3>🌱 I’m currently practicing ... <br/> 
+ - Python for Cybersecurity Specialization
 
 <h3>👨🏾‍💻 Cybersecurity Tools:</h2>
 
