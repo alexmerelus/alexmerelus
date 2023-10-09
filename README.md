@@ -1,36 +1,26 @@
-<h2>Hi, my name is Alex! <br/> A <a href="https://github.com/alexmerelus">Cloud Security Consultant</a> and <a href="https://www.linkedin.com/in/alexmerelus/">Cybersecurity Professional</a>. 
+## Hi, my name is Alex Merelus! 🙋🏾‍♂️
+A [Cloud Security Consultant](https://www.linkedin.com/in/alexmerelus/)
 
-<h3>📚 I’m currently enrolled in... <br/> 
- <b>- M.S. in Cybersecurity and Information Assurance @ WGU 🦉.</b>
-<h3>🌱 I’m also preparing to take the... <br/> 
- - AWS Certified Developer Associate Certificate
+### 📚 I’m currently enrolled in... 
+- **M.S. in Cybersecurity and Information Assurance** @ WGU 🦉
 
-<h3>👨🏾‍💻 Cybersecurity Tools:</h2>
+#### 🌱 I’m also preparing to take the...
+- AWS Certified Developer Associate Certificate
 
+## 👨🏾‍💻 What I'm working On:
 
-  - [Best Practices Guide](https://docs.google.com/spreadsheets/d/1w2FerEWW5URv09J8j-Vno06MJQ1Sp4hFb5ACeZmaHgI/edit?usp=sharing)
+- [Cloud Resume Challenge](https://github.com/alexmerelus/cloud-resume-challenge)
 
-<h3> 📀 Projects:</h2>
+### 🤳🏾 Connect with me:
 
-- <b> PCI DSS implementation w/ AWS </b>
-  - [PCI Requirements Compliance ](https://github.com/alexmerelus/PCI-Compliance-AWS/tree/main) 
-
-- <b> Applying Filters to SQL Queries </b>
-  - [SQL Queries](https://github.com/alexmerelus/sql_queries) 
-
-
-
-
-<h2> 🤳🏾 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AlexMerelus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AlexMerelus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/mr_merelus/
 [linkedin]: https://linkedin.com/in/alexmerelus
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alexmerelus/alexmerelus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
