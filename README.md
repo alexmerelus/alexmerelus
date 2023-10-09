@@ -1,7 +1,7 @@
 ## Hi, my name is Alex Merelus! 🙋🏾‍♂️
 A [Cloud Security Consultant](https://www.linkedin.com/in/alexmerelus/)
 
-### 📚 I’m currently enrolled in... 
+## 📚 I’m currently enrolled in... 
 - **M.S. in Cybersecurity and Information Assurance** @ WGU 🦉
 
 #### 🌱 I’m also preparing to take the...
@@ -9,7 +9,10 @@ A [Cloud Security Consultant](https://www.linkedin.com/in/alexmerelus/)
 
 ## 👨🏾‍💻 What I'm working On:
 
-- [Cloud Resume Challenge](https://github.com/alexmerelus/cloud-resume-challenge)
+### [Cloud Resume Challenge](https://github.com/alexmerelus/cloud-resume-challenge)
+
+### [Cloud Resume Challenge Blog](https://github.com/alexmerelus/cloud-resume-challenge/tree/main/blogs)
+Click the link above to read about my daily experiences, challenges, and learnings as I progress through the Cloud Resume Challenge.
 
 ### 🤳🏾 Connect with me:
 
