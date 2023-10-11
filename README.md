@@ -12,7 +12,10 @@ A [Cloud Security Consultant](https://www.linkedin.com/in/alexmerelus/)
 ### [Cloud Resume Challenge](https://github.com/alexmerelus/cloud-resume-challenge)
 
 ### [Cloud Resume Challenge Blog](https://github.com/alexmerelus/cloud-resume-challenge/tree/main/blogs)
-Click the link above to read about my daily experiences, challenges, and learnings as I progress through the Cloud Resume Challenge.
+
+
+## 🛠️ Projects:
+AWS IAM Security Implementation
 
 ### 🤳🏾 Connect with me:
 
