@@ -17,17 +17,14 @@ A [Cloud Security Consultant](https://www.linkedin.com/in/alexmerelus/)
 ## 🛠️ Projects:
 - ### [AWS IAM Security Implementation](https://github.com/alexmerelus/IAM-Cloud-Project)
 
-### 🤳🏾 Connect with me:
+<!--
+**alexmerelus/alexmerelus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [<img align="left" alt="AlexMerelus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AlexMerelus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/mr_merelus/
 [linkedin]: https://linkedin.com/in/alexmerelus
-
-<!--
-**alexmerelus/alexmerelus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
