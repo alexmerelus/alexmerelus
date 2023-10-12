@@ -15,7 +15,7 @@ A [Cloud Security Consultant](https://www.linkedin.com/in/alexmerelus/)
 
 
 ## 🛠️ Projects:
-AWS IAM Security Implementation
+### [AWS IAM Security Implementation](https://github.com/alexmerelus/IAM-Cloud-Project)
 
 ### 🤳🏾 Connect with me:
 
