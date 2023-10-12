@@ -1,4 +1,4 @@
-## Hi, my name is Alex Merelus! 🙋🏾‍♂️
+## Hi, my name is Alex Merelus 🙋🏾‍♂️
 A [Cloud Security Consultant](https://www.linkedin.com/in/alexmerelus/)
 
 ## 📚 I’m currently enrolled in... 
