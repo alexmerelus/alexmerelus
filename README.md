@@ -11,7 +11,7 @@ A [Cloud Security Consultant](https://www.linkedin.com/in/alexmerelus/)
 
 - ### [Cloud Resume Challenge](https://github.com/alexmerelus/cloud-resume-challenge)
 
-- ### [Cloud Resume Challenge Blog](https://github.com/alexmerelus/cloud-resume-challenge/tree/main/blogs)
+- ### [Cloud Resume Blog](https://github.com/alexmerelus/cloud-resume-challenge/tree/main/blogs)
 
 
 ## 🛠️ Projects:
