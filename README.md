@@ -1,21 +1,14 @@
-## Hi, I'm Alex! 
-## A [Cybersecurity Professional & Identity Governance Consultant](https://www.linkedin.com/in/alexmerelus/)
+## [ Hi, I'm Alex! <br/> A Cybersecurity Professional & Identity Governance Consultant](https://www.linkedin.com/in/alexmerelus/)
+
+### 👨🏾‍💻 Cloud/Cybersecurity Projects:
+- Building a Honeynet and SOC with Azure
+-  [Cloud Resume Challenge](https://github.com/alexmerelus/cloud-resume-challenge)
+-  [AWS IAM Security Implementation](https://github.com/alexmerelus/IAM-Cloud-Project)
 
 ## 📚 I’m currently enrolled in... 
-- **M.S. in Cybersecurity and Information Assurance** @ WGU 🦉
+- M.S. in Cybersecurity and Information Assurance @ WGU 🦉
+  - _Expected Graduation - June 2024_
 
-#### 🌱 I’m also preparing to take the...
-- AWS Certified Developer Associate Certificate
-
-## 👨🏾‍💻 What I'm working On:
-
-- ### [Cloud Resume Challenge](https://github.com/alexmerelus/cloud-resume-challenge)
-
-- ### [Cloud Resume Blog](https://github.com/alexmerelus/cloud-resume-challenge/tree/main/blogs)
-
-
-## 🛠️ Projects:
-- ### [AWS IAM Security Implementation](https://github.com/alexmerelus/IAM-Cloud-Project)
 
 <!--
 **alexmerelus/alexmerelus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,6 +26,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
