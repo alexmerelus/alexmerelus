@@ -1,5 +1,5 @@
-## Hi, my name is Alex Merelus 🙋🏾‍♂️
-A [Cloud Security Consultant](https://www.linkedin.com/in/alexmerelus/)
+## Hi, I'm Alex! 
+## A [Cybersecurity Professional & Identity Governance Consultant](https://www.linkedin.com/in/alexmerelus/)
 
 ## 📚 I’m currently enrolled in... 
 - **M.S. in Cybersecurity and Information Assurance** @ WGU 🦉
