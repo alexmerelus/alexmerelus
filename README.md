@@ -1,7 +1,7 @@
 ## [ Hi, I'm Alex! <br/> A Cybersecurity Professional & Identity Governance Consultant](https://www.linkedin.com/in/alexmerelus/)
 
 ## 👨🏾‍💻 Cloud/Cybersecurity Projects:
--  [Honeynet + SOC with Microsoft Azure](https://github.com/alexmerelus/Azure-SOC)
+-  [Honeynet + SEIM with Microsoft Azure](https://github.com/alexmerelus/Azure-SOC)
 -  [Cloud Resume Challenge](https://github.com/alexmerelus/cloud-resume-challenge)
 -  [AWS IAM Security Implementation](https://github.com/alexmerelus/IAM-Cloud-Project)
 
