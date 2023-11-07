@@ -6,7 +6,7 @@
 -  [AWS IAM Security Implementation](https://github.com/alexmerelus/IAM-Cloud-Project)
 
 ## 📚 I’m currently enrolled in... 
-- M.S. in Cybersecurity and Information Assurance @ WGU 🦉
+- #### M.S. in Cybersecurity and Information Assurance @ WGU 🦉
   - _Expected Graduation - June 2024_
 
 
